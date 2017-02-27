@@ -1,8 +1,5 @@
 *iml
 .idea*
-/coolify/coolify*
-/domainify/domainify*
-/sprinkle/sprinkle*
-/synonyms/synonyms*
-/thesaurus/thesaurus*
+/domainfinder/lib/*
+/domainfinder/resources/*
 /compiling*

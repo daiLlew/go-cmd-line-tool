@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-projects=("sprinkle" "domainify" "coolify" "synonyms" "thesaurus")
+projects=("sprinkle" "domainify" "coolify" "synonyms" "thesaurus" "available")
 
 declare -i len="${#projects[@]}"
 declare runCMD

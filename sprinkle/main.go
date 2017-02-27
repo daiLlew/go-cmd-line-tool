@@ -10,7 +10,7 @@ import (
 )
 
 const otherWord = "*"
-const transformsFile = "sprinkle/transforms/transformations.txt"
+const transformsFile = "resources/transformations.txt"
 
 var transforms []string
 
